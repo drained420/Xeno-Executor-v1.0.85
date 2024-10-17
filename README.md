@@ -6,7 +6,7 @@ V1.0.8 Changelog
 📜 Better Dex script viewer (get rid of annoying '\t' character)
 🔧 Less 'requested module experienced an error while loading' and Roblox core scripts error
 
-![image](https://github.com/user-attachments/assets/95514e98-bfc4-4e7b-bcee-fd4b213bc10b)
+![image](https://github.com/user-attachments/assets/372d3eb8-1476-454f-9a06-0bc58f72c0a9)
 
 ------------------------------------------------------------------------------------------------
 

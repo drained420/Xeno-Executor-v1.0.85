@@ -1,3 +1,3 @@
--- Xeno made by .rizve on Discord
--- https://discord.gg/fQNzTw2JXn
+-- thanks for download / if you buy you get scammed pepew
+-- https://github.com/drained420/Xeno-Executor-v1.0.8
 print("Hello, World!")

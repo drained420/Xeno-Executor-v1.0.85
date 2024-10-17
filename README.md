@@ -5,6 +5,9 @@ V1.0.8 Changelog
 🔄 Better Xeno resuming (Xeno resumes the attach process once closed)
 📜 Better Dex script viewer (get rid of annoying '\t' character)
 🔧 Less 'requested module experienced an error while loading' and Roblox core scripts error
+
+![image](https://github.com/user-attachments/assets/95514e98-bfc4-4e7b-bcee-fd4b213bc10b)
+
 ------------------------------------------------------------------------------------------------
 
 🚨 READ ! READ ! READ ! READ ! READ 🚨

